@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest --coverage",
-    "lint": "eslint .",
-    "build": "off"
+    "lint": "eslint ."
   },
   "author": "",
   "license": "ISC",
